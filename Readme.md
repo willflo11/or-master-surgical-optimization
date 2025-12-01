@@ -72,3 +72,18 @@ La Inteligencia Artificial no reemplaza el juicio clínico del cirujano dentro d
 
 ---
 *© 2025 Dr. Wilmar Flores - Health Data Science Portfolio*
+---
+
+## 🛠️ Guía Técnica: Instalación y Uso
+
+Si eres un desarrollador o data scientist y quieres reproducir la simulación:
+
+### 1. Prerrequisitos
+Asegúrate de tener Python 3.8+ instalado.
+
+### 2. Instalación
+```bash
+git clone [https://github.com/willflo11/or-master-surgical-optimization.git](https://github.com/willflo11/or-master-surgical-optimization.git)
+cd or-master-surgical-optimization
+pip install -r Requirements.txt
+python optimizacion_quirófanos.py
