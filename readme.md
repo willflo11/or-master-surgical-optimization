@@ -16,7 +16,7 @@ Los quirófanos representan el centro de costos y de ingresos más crítico de u
 
 Este proyecto, **OR-Master**, implementó un "Gemelo Digital" para auditar la eficiencia actual y proponer un modelo de Inteligencia Artificial que optimiza la agenda quirúrgica.
 
-### 🚀 Resultado Clave
+### Resultado Clave
 Se identificó un potencial de ahorro de **$19.8 Millones USD anuales** al reducir la incertidumbre de la agenda en un **45%**.
 
 ---
@@ -58,9 +58,9 @@ La implementación de este algoritmo permitiría pasar de una gestión reactiva 
 
 | KPI | Situación Actual | Con Modelo OR-Master | Mejora |
 | :--- | :---: | :---: | :--- |
-| **Error Promedio (MAE)** | 38 minutos | **21 minutos** | 📉 45% más preciso |
-| **Casos Críticos** (>30min desvío) | 43.7% | **23.6%** | 📉 Mitad de interrupciones |
-| **Costo de Ineficiencia** | Alto (Horas Extra) | Optimizado | 💵 **~$19M USD / año** |
+| **Error Promedio (MAE)** | 38 minutos | **21 minutos** | 45% más preciso |
+| **Casos Críticos** (>30min desvío) | 43.7% | **23.6%** | Mitad de interrupciones |
+| **Costo de Ineficiencia** | Alto (Horas Extra) | Optimizado | $19M USD / año** |
 
 ---
 
@@ -74,7 +74,7 @@ La Inteligencia Artificial no reemplaza el juicio clínico del cirujano dentro d
 *© 2025 Dr. Wilmar Flores - Health Data Science Portfolio*
 ---
 
-## 🛠️ Guía Técnica: Instalación y Uso
+## Guía Técnica: Instalación y Uso
 
 Si eres un desarrollador o data scientist y quieres reproducir la simulación:
 
@@ -87,3 +87,4 @@ git clone [https://github.com/willflo11/or-master-surgical-optimization.git](htt
 cd or-master-surgical-optimization
 pip install -r Requirements.txt
 python optimizacion_quirófanos.py
+
